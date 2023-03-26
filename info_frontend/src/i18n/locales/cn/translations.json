@@ -1,0 +1,13 @@
+{
+    "home": "主页",
+    "contact": "联系",
+    "about": "关于",
+    "wholesale_login": "批发登录",
+    "page2": "Page 2",
+    "this-is-page2": "This is <strong>page 2</strong>",
+    "go-to-home": "Go to <0>the home page</0>",
+    "welcome": "Welcome, {{username}}",
+    "change-username": "Change your username:",
+    "submit": "Submit",
+    "go-to-page2": "Click <0>here</0> to go to page 2, {{username}}"
+  }
